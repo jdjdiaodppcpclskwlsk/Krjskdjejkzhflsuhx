@@ -1,0 +1,48 @@
+{
+  "families": {
+    "Обычная": [
+      { "name": "Reeves",   "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Blouse",   "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Inocenio", "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Munsell",  "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Boyega",   "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Ral",      "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Bozado",   "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Pikale",   "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Hume",     "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } },
+      { "name": "Iglehaut", "stats": { "attack": 0, "defense": 0, "mobility": 0, "support": 0, "titan": 0, "raid": 0 } }
+    ],
+    "Редкая": [
+      { "name": "Smith",     "stats": { "attack": -5, "defense": 0,  "mobility": 0,  "support": 5,  "titan": 0,  "raid": 0  } },
+      { "name": "Springer",  "stats": { "attack": 5,  "defense": 5,  "mobility": 0,  "support": 0,  "titan": 0,  "raid": 5  } },
+      { "name": "Kirstein",  "stats": { "attack": 0,  "defense": 0,  "mobility": -5, "support": 0,  "titan": 0,  "raid": 0  } },
+      { "name": "Grice",     "stats": { "attack": 0,  "defense": 0,  "mobility": -5, "support": 0,  "titan": 5,  "raid": 0  } },
+      { "name": "Azumabito", "stats": { "attack": 8,  "defense": 0,  "mobility": 5,  "support": 0,  "titan": -5, "raid": 7  } },
+      { "name": "Braus",     "stats": { "attack": 0,  "defense": 20, "mobility": 0,  "support": 5,  "titan": 0,  "raid": 0  } },
+      { "name": "Kruger",    "stats": { "attack": -5, "defense": 0,  "mobility": 0,  "support": 0,  "titan": 10, "raid": 5  } }
+    ],
+    "Эпическая": [
+      { "name": "Zoe",      "stats": { "attack": 20, "defense": 0,  "mobility": 30, "support": 0,  "titan": 0,  "raid": 15 } },
+      { "name": "Tybur",    "stats": { "attack": 0,  "defense": 0,  "mobility": 0,  "support": 15, "titan": 25, "raid": 0  } },
+      { "name": "Leonhart", "stats": { "attack": 25, "defense": 0,  "mobility": 15, "support": 0,  "titan": 20, "raid": 0  } },
+      { "name": "Galliard", "stats": { "attack": 20, "defense": 0,  "mobility": 10, "support": 0,  "titan": 20, "raid": 0  } },
+      { "name": "Finger",   "stats": { "attack": 0,  "defense": 0,  "mobility": 15, "support": 10, "titan": 20, "raid": 0  } },
+      { "name": "Braun",    "stats": { "attack": 0,  "defense": 25, "mobility": 0,  "support": 0,  "titan": 20, "raid": 0  } },
+      { "name": "Arlert",   "stats": { "attack": 15, "defense": 0,  "mobility": 0,  "support": 0,  "titan": 25, "raid": 20 } },
+      { "name": "Ksaver",   "stats": { "attack": 15, "defense": 0,  "mobility": 15, "support": 0,  "titan": 20, "raid": 0  } }
+    ],
+    "Легендарная": [
+      { "name": "Ackerman", "stats": { "attack": 50, "defense": 10, "mobility": 35, "support": 0,  "titan": 0,  "raid": 50 } },
+      { "name": "Yeager",   "stats": { "attack": 20, "defense": 20, "mobility": 0,  "support": 10, "titan": 50, "raid": 15 } },
+      { "name": "Reiss",    "stats": { "attack": 0,  "defense": 15, "mobility": 0,  "support": 40, "titan": 30, "raid": 10 } }
+    ],
+    "Мифическая": [
+      { "name": "Fritz", "stats": { "attack": 40, "defense": 25, "mobility": 20, "support": 35, "titan": 50, "raid": 40 } },
+      { "name": "Helos", "stats": { "attack": 60, "defense": 10, "mobility": 50, "support": 15, "titan": 0,  "raid": 65 } }
+    ],
+    "Секретная": [
+      { "name": "Shiki", "stats": { "attack": 50, "defense": 10, "mobility": 40, "support": 0, "titan": 10, "raid": 55 } }
+    ]
+  }
+}
+
